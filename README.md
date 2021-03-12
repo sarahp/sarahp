@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...playing Hydra.JS visuals with my band #CatFanstheBand.
 - 🌱 I’m currently learning ...React on a deeper level.
 - 💞️ I’m looking to collaborate on ...diving deeper into Javascript.
+- 🧐 I'm currently looking for a full-time Front End Engineer position.
 - 📫 How to reach me ...https://sarahp.studio/
 
 <!---
